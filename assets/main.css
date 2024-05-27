@@ -909,7 +909,7 @@ body.is-instant:after {
 }
 
 #container17 > .wrapper > .inner > :nth-child(1) {
-	width: 75%;
+	width: 50%;
 	--alignment: left;
 	--flex-alignment: flex-start;
 	--indent-left: 1;
@@ -917,7 +917,7 @@ body.is-instant:after {
 }
 
 #container17 > .wrapper > .inner > :nth-child(2) {
-	width: 25%;
+	width: 50%;
 }
 
 #container11 {
@@ -1717,7 +1717,7 @@ body.is-instant:after {
 }
 
 #container06 > .wrapper > .inner > :nth-child(1) {
-	width: 75%;
+	width: 50%;
 	--alignment: left;
 	--flex-alignment: flex-start;
 	--indent-left: 1;
@@ -1725,7 +1725,7 @@ body.is-instant:after {
 }
 
 #container06 > .wrapper > .inner > :nth-child(2) {
-	width: 25%;
+	width: 50%;
 }
 
 #container19 {
